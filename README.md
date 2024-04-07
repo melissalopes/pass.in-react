@@ -5,8 +5,6 @@ A ferramenta permite que o organizador cadastre um evento e abra uma página pú
 Os participantes inscritos podem emitir uma credencial para check-in no dia do evento.
 O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
-> ## Metodologias e Designs
-
 > ## Bibliotecas e Ferramentas
 
 - NPM
@@ -15,9 +13,16 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - Typescript
 - Vite
 - Tailwind CSS
-- 
-- 
+- FakerJs
 
-> ## Features do Typescript
+> ## Features do React
 
-> ## Features de Testes
+- Components
+- States
+- Props
+- ComponentProps
+
+> ## Features do Tailwind
+
+- Forms
+- Merge
